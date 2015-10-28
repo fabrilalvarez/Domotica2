@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Domotica2.0</string>
+    <string name="action_settings">Opciones</string>
+    <string name="boton_on_off">ON/OFF</string>
+    <string name="boton_encendido">ON</string>
+    <string name="boton_apagado">OFF</string>
+    <string name="titulo">Pulsa el boton para encender</string>
+    <string name="luz">Luz</string>
+    <string name="intensidad">Intensidad</string>
+</resources>
